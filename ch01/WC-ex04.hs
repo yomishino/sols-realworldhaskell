@@ -1,6 +1,7 @@
 {-
-    File: WC-ex04.hs   
-     Author: yomishino
+    File: ch01/WC-ex04.hs
+
+    Author: yomishino
 
     Chapter 1, Exercise 4
     

@@ -1,5 +1,5 @@
 {-
-    File: lastButOne-ex02.hs
+    File: ch02/lastButOne-ex02.hs
 
     Author: yomishino
 
